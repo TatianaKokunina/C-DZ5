@@ -1,0 +1,5 @@
+D:\Базовый курс. Тестировщик\C#DZ5\EX36\obj\Debug\net6.0\EX36.csproj.AssemblyReference.cache
+D:\Базовый курс. Тестировщик\C#DZ5\EX36\obj\Debug\net6.0\EX36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Базовый курс. Тестировщик\C#DZ5\EX36\obj\Debug\net6.0\EX36.AssemblyInfoInputs.cache
+D:\Базовый курс. Тестировщик\C#DZ5\EX36\obj\Debug\net6.0\EX36.AssemblyInfo.cs
+D:\Базовый курс. Тестировщик\C#DZ5\EX36\obj\Debug\net6.0\EX36.csproj.CoreCompileInputs.cache
